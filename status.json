@@ -1,15 +1,15 @@
 {
-  "status_code": "degraded_performance",
-  "status_message": "Cloudflare, which serves the Live Spots API is experiencing issues. Spot fetching may be intermittent.",
+  "status_code": "operational",
+  "status_message": "Cloudflare issues should be resolved. Please contact me if you continue experiencing issues.",
   "last_updated": "2025-11-18T16:10:00Z",
   "components": [
     {
-      "name": "API Server",
+      "name": "Live Spots",
       "status": "degraded_performance",
-      "detail": "Cloudflare, which serves the Live Spots API is experiencing issues. Spot fetching may be intermittent."
+      "detail": "Cloudflare, which serves the Live Spots API was experiencing issues, but they seem to have resolved."
     },
     {
-      "name": "Database Service",
+      "name": "Live Spots Database",
       "status": "operational",
       "detail": "Spots are loading into the database without issue."
     }
