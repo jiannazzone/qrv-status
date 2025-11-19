@@ -5,8 +5,8 @@
   "components": [
     {
       "name": "Live Spots",
-      "status": "degraded_performance",
-      "detail": "This is a sample status notification. It will be displayed with there are issues with the Live Spots API. Once you dismiss it, it should not return until the status changes."
+      "status": "operational",
+      "detail": "After issues with Cloudflare, Live Spots have been restored."
     },
     {
       "name": "Live Spots Database",
