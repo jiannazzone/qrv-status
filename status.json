@@ -1,7 +1,7 @@
 {
   "status_code": "major_outage",
   "status_message": "The PSK reporter service itself is down. No new spots have been seen by my server since around 1600 UTC.",
-  "last_updated": "2025-11-20T00:42:22Z",
+  "last_updated": "2025-11-20T01:33:37Z",
   "components": [
     {
       "name": "Live Spots",
