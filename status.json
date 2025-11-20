@@ -1,17 +1,17 @@
 {
-  "status_code": "operational",
-  "status_message": "Cloudflare issues should be resolved. Please contact me if you continue experiencing issues.",
-  "last_updated": "2025-11-19T01:24:26Z",
+  "status_code": "major_outage",
+  "status_message": "Issues with the live spots API",
+  "last_updated": "2025-11-18T22:22:00Z",
   "components": [
     {
       "name": "Live Spots",
-      "status": "operational",
-      "detail": "After issues with Cloudflare, Live Spots have been restored."
+      "status": "major_outage",
+      "detail": "I forgot to add retention limits to the API, so it's over 35GB in size. For this reason, your live spots are returning 0. I am currently pruning the database and adding automatic cleanup of old data."
     },
     {
       "name": "Live Spots Database",
-      "status": "operational",
-      "detail": "Spots are loading into the database without issue."
+      "status": "major_outage",
+      "detail": "Spots are note loading into the database."
     }
   ]
 }
