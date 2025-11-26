@@ -5,8 +5,8 @@
   "components": [
     {
       "name": "Live Spots",
-      "status": "under_maintenance",
-      "detail": "I am taking the secondary server offline now that migration is complete. If you are on an older version of the app, you may need to update to v0.5."
+      "status": "operational",
+      "detail": "All systems functioning normally."
     },
     {
       "name": "Live Spots Database",
