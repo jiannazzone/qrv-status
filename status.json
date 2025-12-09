@@ -1,6 +1,6 @@
 {
-  "status_code": "operational",
-  "status_message": "All systems functioning normally.",
+  "status_code": "under_maintenance",
+  "status_message": "I am upgrading a few things on the database as of 0217 UTC. I expect full functionality in about 10 minutes.",
   "last_updated": "2025-11-26T04:00:19Z",
   "components": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "name": "Live Spots Database",
-      "status": "operational",
-      "detail": "All systems functioning normally."
+      "status": "under_maintenance",
+      "detail": "I am upgrading a few things on the database as of 0217 UTC. I expect full functionality in about 10 minutes."
     }
   ]
 }
