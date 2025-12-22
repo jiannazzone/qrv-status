@@ -1,6 +1,6 @@
 {
-  "status_code": "operational",
-  "status_message": "All systems functioning normally.",
+  "status_code": "under_maintenance",
+  "status_message": "I'm doing a few system upgrades tonight. I don't expect downtime, but it's best to be transparent!",
   "last_updated": "2025-12-09T02:34:00Z",
   "components": [
     {
