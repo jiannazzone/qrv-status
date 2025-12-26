@@ -1,17 +1,17 @@
 {
-  "status_code": "operational",
-  "status_message": "All systems functioning normally.",
-  "last_updated": "2025-12-22T03:26:46Z",
+  "status_code": "outage",
+  "status_message": "I am currently working on a fix and expect it to be live in the next 15 minutes.",
+  "last_updated": "2025-12-22T01:45:34Z",
   "components": [
     {
       "name": "Live Spots",
-      "status": "operational",
-      "detail": "All systems functioning normally."
+      "status": "outage",
+      "detail": "Spots will not be ingested until I fix the API issue."
     },
     {
       "name": "Live Spots Database",
-      "status": "operational",
-      "detail": "All systems functioning normally."
+      "status": "outage",
+      "detail": "I am currently working on a fix and expect it to be live in the next 15 minutes."
     }
   ]
 }
