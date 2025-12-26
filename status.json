@@ -1,12 +1,12 @@
 {
-  "status_code": "under_maintenance",
+  "status_code": "operational",
   "status_message": "All systems operating normally.",
-  "last_updated": "2025-12-26T21:01:00Z",
+  "last_updated": "2025-12-26T22:30:00Z",
   "components": [
     {
       "name": "Live Spots",
-      "status": "under_maintenance",
-      "detail": "I am performing some updates in preparation for new features. You may see brief blips in coverage for live spots."
+      "status": "operational",
+      "detail": "All systems operating normally."
     },
     {
       "name": "Live Spots Database",
