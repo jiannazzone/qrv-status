@@ -1,0 +1,13 @@
+name = "qrv-status"
+main = "qrv-status-worker.js"
+compatibility_date = "2024-01-01"
+
+# KV namespace binding - you'll replace the ID after creating it
+[[kv_namespaces]]
+binding = "STATUS_KV"
+id = "839842ebd03e40f1b61f4c59e360cf77"
+
+# Route configuration - uncomment and modify after initial deployment
+# routes = [
+#   { pattern = "status.getqrv.com/*", zone_name = "getqrv.com" }
+# ]
